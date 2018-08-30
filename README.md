@@ -1,9 +1,10 @@
 A PHP wrapper to be used with [Gitlab's API]
 ==============
-Company: Designersx [http://www.designersx.com/]
-Auther: Rajinder
-Email Id: rajinder@designersx.com
-Based on: [https://docs.gitlab.com/ce/api/README.html]
+Company: [Designersx] (http://www.designersx.com/)
+
+Auther: Rajinder Choudhary
+
+Based on: [Gitlab Docs] (https://docs.gitlab.com/ce/api/README.html)
 
 Installation
 ------------
